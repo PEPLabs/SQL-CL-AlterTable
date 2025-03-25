@@ -48,6 +48,10 @@ public class AlterATable {
      *   |2         |'Brian'            |
      *   |3         |'Charles'          |
      *
+     * 
+     *     NOTE: Do not change anything in this code. You should write your sql statement on a single line (do not use 
+     *     multi-line formatting) in the problem1.sql file.
+     *
      */
     public void problem1(){
         String sql = FileUtil.parseSQLFile("problem1.sql");
